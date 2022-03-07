@@ -9,7 +9,7 @@ Refractoring a html template
 *CSS 
 
 #Website 
-https://github.com/franklint/CU-Code-Refracto
+https://franklint.github.io/CU-Code-Refractor/
 
 ## Contribution 
 Edited by Franklin T 
